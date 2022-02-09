@@ -1,5 +1,6 @@
-# Naruto Quotes Client
-Naruto quotes generator client for DIO lesson.
+# Quote Generator React App
+
+Quotes generator client for DIO lesson.
 
 ![screenshot](https://user-images.githubusercontent.com/57908016/153267459-e567b8cc-d8d9-41f4-bf3a-b8da1a76f608.png)
 
